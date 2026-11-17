@@ -1,0 +1,19 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "C:/Program Files/QGIS 3.34.14/apps/qgis-ltr/python",
+        "C:/Program Files/QGIS 3.34.14/apps/qgis-ltr/python/plugins",
+        "C:/Program Files/QGIS 3.34.14/apps/Python312/Lib/site-packages"
+    ],
+    "python.autoComplete.extraPaths": [
+        "C:/Program Files/QGIS 3.34.14/apps/qgis-ltr/python",
+        "C:/Program Files/QGIS 3.34.14/apps/qgis-ltr/python/plugins"
+    ],
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "files.associations": {
+        "*.ui": "xml",
+        "*.qrc": "xml"
+    }
+}
